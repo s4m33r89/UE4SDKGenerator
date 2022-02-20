@@ -1,7 +1,7 @@
 ## UE4-SDK-GENERATOR for Android
 UnrealEngine-4 Sdk Generator for Android Devices.
 Generated SDKs [HERE](https://github.com/D-R-99/UE4SDKGenerator/tree/master/SDKs/)
-This Tool is just Converted for Android from @KN4CK3R 's UE4SDKGen.
+.This Tool is just Converted for Android from @KN4CK3R 's UE4SDKGen.
 Currently Tested on 64Bit Version of BGMI, But can support other games that have EngineVersion from 4.18 to 4.22.
 
 ## How to Use:
