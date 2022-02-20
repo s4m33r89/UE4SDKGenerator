@@ -1,0 +1,2 @@
+rmdir /libs
+ndk-build
