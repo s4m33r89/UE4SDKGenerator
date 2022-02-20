@@ -20,7 +20,7 @@ Currently Tested on 64Bit Version of BGMI, But can support other games that have
     ```
 
 * Make sure Apk have Write Permission in media folder.
-* SDK will be Generated in /sdcard/Android/media/<PKG-NAME> folder.
+* SDK will be Generated in /sdcard/Android/media/PKG-NAME folder.
 
 ## Notes
 
